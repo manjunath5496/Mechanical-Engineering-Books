@@ -96,6 +96,16 @@ Analysis and Damping </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(61).pdf" style="text-decoration:none;">Materials for engineering</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(62).pdf" style="text-decoration:none;">Shigley's Mechanical Engineering Design </a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(63).pdf" style="text-decoration:none;">Basic Machines and How They Work</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(64).pdf" style="text-decoration:none;">Machine Design Databook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(65).pdf" style="text-decoration:none;">McGraw-Hill Dictionary of Engineering</a></b></li>
+
+
+
 
     
 </ul>
